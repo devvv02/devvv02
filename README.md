@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 🤝 I’m very proficient with **PHP, MySQL and Custom Development.**
+- 🤝 I’m very proficient with **PHP, MySQL and Custom Web Development.**
 
 - 📫 How to reach me **pdev024@gmail.com**
 
